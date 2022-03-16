@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">00223</string>
+    <string name="boton_initi_play">Jugar</string>
+    <string name="boton_initi_quit">Salir</string>
+    <string name="boton_juego_reiniciar">Reiniciar</string>
+    <string name="boton_juego_quit">Salir</string>
+    <string name="puntuacion_text">Scord:</string>
+</resources>
